@@ -1,6 +1,7 @@
 ## Hi , I'm Hari 
 
- Computer Science student 
+🧠 Computer Science student 
+
 
 
 
